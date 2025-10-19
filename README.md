@@ -11,7 +11,9 @@ The include/secrets.h has all the passwords that need to be set.
 Currently it is stand alone and WiFi is not active and neither is the NFC Reader.
 
 The Wifi and NFC code is in the code but disabled at the moment.
-<br>
+
+For the Hardware assembly and 3D printed parts go here: https://www.thingiverse.com/thing:7147403
+
 
 ### Operation:
 
